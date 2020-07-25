@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="title_dimension">20sp</dimen>
+    <dimen name="authors_dim">18sp</dimen>
+    <dimen name="published_date_padding">8dp</dimen>
+    <dimen name="standard_margin">16dp</dimen>
+    <dimen name="standard_text_size">16sp</dimen>
+    <dimen name="margin_search_activity">24dp</dimen>
+    <dimen name="search_button_textSize">18sp</dimen>
+</resources>
